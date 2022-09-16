@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPedModelInfo__InitDataList>
+   <InitDatas>
+   <Item>
+         <Name>a_c_bear</Name>
+         <ClipDictionaryName>move_m@generic</ClipDictionaryName>
+         <ExpressionSetName>expr_set_ambient_male</ExpressionSetName>
+         <Pedtype>Animal</Pedtype>
+      <MovementClipSet>DEER</MovementClipSet>
+      <MovementClipSets/>
+         <StrafeClipSet>move_ped_strafing</StrafeClipSet>
+         <MovementToStrafeClipSet>move_ped_to_strafe</MovementToStrafeClipSet>
+         <InjuredStrafeClipSet>move_strafe_injured</InjuredStrafeClipSet>
+         <FullBodyDamageClipSet>dam_ko</FullBodyDamageClipSet>
+         <AdditiveDamageClipSet>CREATURES@DEER@DAM_AD</AdditiveDamageClipSet>
+         <DefaultGestureClipSet>ANIM_GROUP_GESTURE_M_GENERIC</DefaultGestureClipSet>
+         <FacialClipsetGroupName>facial_clipset_group_gen_male</FacialClipsetGroupName>
+         <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_M_LO</DefaultVisemeClipSet>
+         <PoseMatcherName>DEER</PoseMatcherName>
+         <PoseMatcherProneName>null</PoseMatcherProneName>
+         <GetupSetHash>NMBS_SLOW_GETUPS</GetupSetHash>
+         <CreatureMetadataName>null</CreatureMetadataName>
+      <DecisionMakerName>WildAnimal</DecisionMakerName>
+      <MotionTaskDataSetName>DEER</MotionTaskDataSetName>
+      <DefaultTaskDataSetName>Animal</DefaultTaskDataSetName>
+      <PedCapsuleName>DEER</PedCapsuleName>
+         <RelationshipGroup>Animal</RelationshipGroup>
+         <NavCapabilitiesName>STANDARD_PED</NavCapabilitiesName>
+         <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+         <DefaultBrawlingStyle>BS_DEER</DefaultBrawlingStyle>
+         <DefaultUnarmedWeapon>WEAPON_DEER</DefaultUnarmedWeapon>
+         <Personality>SERVICEMALES</Personality>
+         <CombatInfo>DEFAULT</CombatInfo>
+         <VfxInfoName>VFXPEDINFO_HUMAN_GENERIC</VfxInfoName>
+         <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+         <AbilityType>SAT_NONE</AbilityType>
+         <ThermalBehaviour>TB_WARM</ThermalBehaviour>
+         <SuperlodType>SLOD_HUMAN</SuperlodType>
+         <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+         <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+         <IsStreamedGfx value="false" />
+      </Item>
+   </InitDatas>
+</CPedModelInfo__InitDataList>
