@@ -19,3 +19,7 @@ used script: https://github.com/dollar-src/qb-peds
 a_c_bear a postava se změni na medvěda
 
 ![image](https://user-images.githubusercontent.com/113678513/190613078-acdd4e95-5004-45ef-a610-55526ebcd863.png)
+
+VIDEO
+
+https://youtu.be/tGZYAh4Hubs
